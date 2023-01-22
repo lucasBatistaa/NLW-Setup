@@ -27,4 +27,4 @@ Site e Aplicativo mobile para a criação de hábitos diários
 - Mudar o estado de checked do checkbox (patch)
 
 ### Diagrama Entidade-Relacionamento
-(![image](https://user-images.githubusercontent.com/86435351/213897994-2e48efa3-3ea8-41a5-9095-d08809a128c0.png)
+![image](https://user-images.githubusercontent.com/86435351/213897994-2e48efa3-3ea8-41a5-9095-d08809a128c0.png)
